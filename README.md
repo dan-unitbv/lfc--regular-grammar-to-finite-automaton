@@ -1,1 +1,1 @@
-# lfc--regular-grammar-to-finite-automaton
+Converter from regular grammar to finite automaton.
